@@ -1,0 +1,3 @@
+git config --global user.mail "desmaninvokavit@gmail.com"
+
+git init
